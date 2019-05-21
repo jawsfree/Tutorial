@@ -253,14 +253,6 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 613,
-                    "y": 153,
-                    "uniqueID": 449683,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Readme",
                     "name": "README",
                     "x": 702,
@@ -268,6 +260,14 @@
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 701,
+                    "y": 173,
+                    "uniqueID": 449683,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Readme",
@@ -313,6 +313,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1127,
+                    "y": 334,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Readme",
                     "name": "README",
                     "x": 1238,
@@ -320,13 +327,6 @@
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1630,
-                    "y": 236,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
